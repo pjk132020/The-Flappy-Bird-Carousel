@@ -5,16 +5,17 @@ This project demonstrates the control of pairs of servo motors using the Arduino
 
 ### Hardware Requirements
 1. Arduino board
-Servo motors (2 per pair)
-Connecting wires
-Software Requirements
-Arduino IDE
-Servo library
-Wiring
-Servo 1 of each pair: Connect to pin 2
-Servo 2 of each pair: Connect to pin 3
-Code Overview
-Libraries
+2.Servo motors (2 per pair)
+3. Connecting wires
+4. Software Requirements
+5. Arduino IDE
+6. Servo library
+7. Wiring
+8. Servo 1 of each pair: Connect to pin 2
+9. Servo 2 of each pair: Connect to pin 3
+
+
+### Libraries
 #include <Servo.h>
 
 ### Definitions
@@ -45,20 +46,20 @@ Observe the servos moving to random positions and then resetting to the middle p
 This project demonstrates the control of two stepper motors using the AccelStepper library. One motor runs continuously in the background, while the other motor can perform a “flap” motion when a button is pressed.
 
 ### Hardware Requirements
-Arduino board
-Two 4-wire stepper motors
-Stepper motor drivers
-Push button
-Connecting wires
-Software Requirements
-Arduino IDE
-AccelStepper library
-Wiring
-Motor 1 (Background motor): Connect to pins 12, 11, 10, 9
-Motor 2 (Flap motor): Connect to pins 22, 23, 24, 25
-Button: Connect to pin 3 with a pull-up resistor
-Code Overview
-Libraries
+1. Arduino board
+2. Two 4-wire stepper motors
+3. Stepper motor drivers
+4. Push button
+5. Connecting wires
+6. Software Requirements
+7. Arduino IDE
+8. AccelStepper library
+9. Wiring
+10. Motor 1 (Background motor): Connect to pins 12, 11, 10, 9
+11. Motor 2 (Flap motor): Connect to pins 22, 23, 24, 25
+12. Button: Connect to pin 3 with a pull-up resistor
+
+### Libraries
 #include <AccelStepper.h>
 
 ### Definitions
