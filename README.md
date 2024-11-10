@@ -4,7 +4,7 @@
 This project demonstrates the control of pairs of servo motors using the Arduino platform. Each pair of servos moves to random angles while maintaining a specified gap between them, then resets to a middle position.
 
 ### Hardware Requirements
-Arduino board
+1. Arduino board
 Servo motors (2 per pair)
 Connecting wires
 Software Requirements
