@@ -1,6 +1,6 @@
 # The-Flappy-Bird-Carousel
 
-#Servo Motor Pair Control (file 1)
+# Servo Motor Pair Control (file 1)
 This project demonstrates the control of pairs of servo motors using the Arduino platform. Each pair of servos moves to random angles while maintaining a specified gap between them, then resets to a middle position.
 
 Hardware Requirements
@@ -38,7 +38,7 @@ Upload the code to your Arduino board.
 Observe the servos moving to random positions and then resetting to the middle position.
 
 -----------
-#Stepper Motor Control with AccelStepper (file 2)
+# Stepper Motor Control with AccelStepper (file 2)
 This project demonstrates the control of two stepper motors using the AccelStepper library. One motor runs continuously in the background, while the other motor can perform a “flap” motion when a button is pressed.
 
 Hardware Requirements
