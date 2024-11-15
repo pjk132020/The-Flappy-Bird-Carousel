@@ -1,5 +1,19 @@
 # The-Flappy-Bird-Carousel
 
+## Introduction🚀
+![image](https://github.com/user-attachments/assets/be59c08d-99a2-4541-9d11-473c12370ad4)
+- 🎮 Developed a rotating platform arcade game using Arduino boards, stepper and servo motors, merging modern tech with retro gaming elements.
+- 🛠️ Tackled engineering challenges like wire tangling by rotating the microcontroller, showcasing resilience and adaptability. 
+- 💡 Gained expertise in Arduino IDE for motor control and collaborated effectively to create a functional prototype, laying the groundwork for future enhancements.
+
+## Objective 🎯
+The primary objective of this project is to design and develop a rotating platform arcade game that seamlessly integrates modern technology with retro gaming elements. By leveraging Arduino boards, stepper motors, and servo motors, the project aims to:
+
+- 🎮 Create an engaging and interactive gaming experience that captures the essence of classic arcade games.
+- 🛠️ Overcome engineering challenges, such as wire tangling, through innovative solutions like rotating the microcontroller.
+- 💡 Enhance technical skills in Arduino IDE and motor control, fostering collaboration and teamwork.
+- 🚀 Lay the foundation for future enhancements and iterations, ensuring the project's long-term viability and adaptability.
+
 ## Servo Motor Pair Control (file 1)
 This project demonstrates the control of pairs of servo motors using the Arduino platform. Each pair of servos moves to random angles while maintaining a specified gap between them, then resets to a middle position.
 
